@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LightControler</string>
+    <string name="welcome_text">Hello! I\'m a droid.</string>
+    <string name="hellodroid">HelloDroid</string>
+    <string name="red_button_text">Red</string>
+    <string name="blue_button_text">blue</string>
+    <string name="green_button_text">green</string>
+    <string name="default_button_text">default</string>
+</resources>
